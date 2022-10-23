@@ -32,7 +32,7 @@
         </tr>
       <tr>
        <td>
-        <img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ruiznorlan&show_icons=true&theme=radical"/>
+        <img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ruiznorlan&show_icons=true&theme=dark"/>
        </td>
    </table>
 </p>
