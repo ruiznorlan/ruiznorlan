@@ -48,6 +48,24 @@
 
 </br>
 
+<h3 align="left">PROJECT</h3>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ruiznorlan/project?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/ruiznorlan/project?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/ruiznorlan/project?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/ruiznorlan/project?color=red&style=plastic)
+
+</br>
+
+<h3 align="left">WEB</h3>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ruiznorlan/web?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/ruiznorlan/web?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/ruiznorlan/web?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/ruiznorlan/web?color=red&style=plastic)
+
+</br>
+
 <h3>My coding stack: </h3>
 <p>
     <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" height="48" width="48"/>
