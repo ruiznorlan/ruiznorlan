@@ -16,8 +16,8 @@
     <a href="https://www.linkedin.com/in/norlan-ruiz-83b261224/" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
     </a>
-    <a href="https://odoo.ruiznorlan.com/" target="blank">
-        <img align="center" src="https://odoo.ruiznorlan.com/web/image/website/1/logo/Norlan%20Ruiz?unique=14b3ada" alt="ruiznorlan" height="40" width="40" />
+    <a href="https://ruiznorlan.com/" target="blank">
+        <img align="center" src="https://www.ruiznorlan.com/web/image/website/1/logo/Norlan%20Ruiz?unique=9dd1d86" alt="ruiznorlan" height="40" width="40" />
     </a>
     
 </p>
